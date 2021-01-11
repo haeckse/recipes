@@ -28,3 +28,5 @@ Klassisches Apfel-Rotkohl, recht simpel, kocht halt lange.
 4. Abschmecken mit Salz, Pfeffer, Agavendicksaft. Lorbeerblätter entfernen.
 
 **Hinweis:** Lässt sich gut am Vortag vorbereiten. Dann am Tag des Verzehrs nochmal köcheln lassen, dann ist der Rotkohl wirklich weich. Und es schmeckt noch besser.
+
+Quelle: https://biancazapatka.com/de/apfelrotkohl-rezept/#wprm-recipe-container-41087
