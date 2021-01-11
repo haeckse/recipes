@@ -26,6 +26,7 @@ Ein Linsenbraten, sozusagen ein Hackbraten in vegan, versucht aber nicht ernstha
     - *2 EL* Tomatenmark
     - *1 EL* Senf
     - *1 TL* Paprikapulver
+    - *2 EL* Sojasauce
     - Salz und Pfeffer
 
 **Cranberry Chutney (Glasur)**
