@@ -4,16 +4,16 @@ Einfacher Pizzateig mit Hefe.
 
 *vegetarian, vegan*
 
-**1 Blech**
+***1* Blech**
 
 ---
 
-- 400 g Mehl
-- 1/2 Würfel Frischhefe (oder 1 Pck. Trockenhefe)
-- 200 ml lauwarmes Wasser
-- 1 Prise Zucker
-- 1 TL Salz
-- 4 EL Olivenöl
+- *400 g* Mehl
+- *1/2* Würfel Frischhefe (oder *1* Pck. Trockenhefe)
+- *200 ml* lauwarmes Wasser
+- *1* Prise Zucker
+- *1 TL* Salz
+- *4 EL* Olivenöl
 
 ---
 
