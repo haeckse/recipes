@@ -8,7 +8,7 @@ Simples, aber sehr leckeres Rezept für vegane Bagel.
 
 ---
 
-**Bagel-Teig**
+## Bagel-Teig
 - *1/2 Würfel* Hefe (oder *7 g* Trockenhefe)
 - *320 ml* lauwarmes Wasser (38-43°C)
 - *1 EL* Zucker
@@ -16,13 +16,13 @@ Simples, aber sehr leckeres Rezept für vegane Bagel.
 - *2 TL* Salz
 - *2 EL* Pflanzenöl
 
-**Toppings**
+## Toppings
 - *2 EL* Soja-Sahne
 - Körner und Saaten zum Bestreuen
 
 ---
 
-**Teig**
+## Teig
 
 1. Hefe in kleine Schüssel bröseln, *100 ml* lauwarmes Wasser und Zucker hinzufügen und verrühren, bis sich die Hefe aufgelöst hat. 5 Minuten stehen lassen, bis Mischung anfängt, zu schäumen.
 
@@ -31,7 +31,7 @@ Simples, aber sehr leckeres Rezept für vegane Bagel.
 3. Teig in leicht geölt Schüssel legen, mit Geschirrtuch abdecken. Mindestens 45 Minuten an warmem Ort gehen lassen.
 Ich lasse den Teig gerne mindestens ein paar Stunden gehen, am besten über Nacht 10-18 Std. im Kühlschrank, dann wird der Teig schön glatt.
 
-**Bagel formen und backen**
+## Bagel formen und backen
 
 1. Teig nochmal kurz durchkneten und in *8* Stücke je ca. 120g teilen. Die Stücke zu Kugeln formen, auf Backblech (mit Backpapier) legen. Bedeckt nochmal 5-10 Minuten ruhen lassen. Wenn der Teig im Kühlschrank gegangen ist, mindestens 20 Minuten.
 

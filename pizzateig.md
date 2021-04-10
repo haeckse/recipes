@@ -4,7 +4,7 @@ Einfacher Pizzateig mit Hefe.
 
 *vegetarian, vegan*
 
-***1* Blech**
+**1 Blech**
 
 ---
 

@@ -27,6 +27,7 @@ Klassisches Apfel-Rotkohl, recht simpel, kocht halt lange.
 3. Restliche Zutaten (Apfelessig, Apfelsaft, Lorbeerblätter) sowie nach Geschmack Pfeffer, Agavendicksaft, Piment hinzufügen. Kurz aufkochen, dann Hitze reduzieren, bei mittlerer Hitze ca 45 Minuten schmoren lassen. Immer wieder umrühren, ggf Flüssigkeit nachgießen.
 4. Abschmecken mit Salz, Pfeffer, Agavendicksaft. Lorbeerblätter entfernen.
 
-**Hinweis:** Lässt sich gut am Vortag vorbereiten. Dann am Tag des Verzehrs nochmal köcheln lassen, dann ist der Rotkohl wirklich weich. Und es schmeckt noch besser.
+## Hinweis:
+Lässt sich gut am Vortag vorbereiten. Dann am Tag des Verzehrs nochmal köcheln lassen, dann ist der Rotkohl wirklich weich. Und es schmeckt noch besser.
 
 Quelle: https://biancazapatka.com/de/apfelrotkohl-rezept/#wprm-recipe-container-41087

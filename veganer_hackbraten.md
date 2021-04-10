@@ -7,7 +7,7 @@ Ein Linsenbraten, sozusagen ein Hackbraten in vegan, versucht aber nicht ernstha
 **8 servings, 1 Kastenform (25 cm)**
 
 ---
-**Linsenbraten**
+## Linsenbraten
 - *130 g* getrocknete Linsen (grüne oder Brauen)
 - *1 EL* Pflanzenöl
 - *1* Zwiebel
@@ -29,7 +29,7 @@ Ein Linsenbraten, sozusagen ein Hackbraten in vegan, versucht aber nicht ernstha
     - *2 EL* Sojasauce
     - Salz und Pfeffer
 
-**Cranberry Chutney (Glasur)**
+## Cranberry Chutney (Glasur)
 - *2 EL* eingemachte Preiselbeeren
 - *2 EL* Ketchup
 

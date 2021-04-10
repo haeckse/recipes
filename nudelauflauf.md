@@ -2,7 +2,7 @@
 
 Nudelauflauf mit Sauce, die auch mit nur Stabmixer funktioniert.
 
-*pasta, vegan, tag3*
+*pasta, vegan*
 
 **4 servings, 1 kg**
 
@@ -19,7 +19,7 @@ Nudelauflauf mit Sauce, die auch mit nur Stabmixer funktioniert.
     - grüne Bohnen
 - *1 EL* Sojasoße
 
-# Zutaten zum Überbacken
+## Zutaten zum Überbacken
 - *400 g* Seidentofu
 - *1 Dose* weiße Cannellini-Bohnen* (400 g/ 250 g Abtropfgewicht)
 - *1 EL* scharfer Senf

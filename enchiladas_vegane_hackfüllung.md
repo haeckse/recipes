@@ -8,7 +8,7 @@ Enchiladas mit Tomatensoße, Hackfüllung und Salat
 
 ---
 
-**Für die Enchilada-Sauce:**
+## Für die Enchilada-Sauce:
 - ca. *100 g* getrocknete Chili (*4* Ancho Chili, *5* Guajillo Chili)
 - *3* Knoblauchzehen
 - *1* rote Zwiebel
@@ -22,7 +22,7 @@ Enchiladas mit Tomatensoße, Hackfüllung und Salat
 - Zucker
 - Pflanzenöl zum Braten
 
-**Für die Füllung:**
+## Für die Füllung:
 - *6* Tortillas
 - *400 g* schwarze Bohnen (aus der Dose)
 - *1* rote Zwiebel
@@ -31,13 +31,13 @@ Enchiladas mit Tomatensoße, Hackfüllung und Salat
 - Pfeffer
 - Pflanzenöl zum Braten
 
-**Für das Topping:**
+## Für das Topping:
 - Eisbergsalat
 - Radieschen
 - Limetten
 - Koriander 
 
-**Für die Crema:**
+## Für die Crema:
 - *100 g* vegane Crème fraîche
 - *4 EL* pflanzliche Milch
 - Limettensaft nach Geschmack
