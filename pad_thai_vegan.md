@@ -8,7 +8,7 @@ Leckeres thailändisches Nudelgericht.
 
 ---
 
-**Pad Thai**
+## Pad Thai
 - *350 g* Nudeln nach Belieben (z.B. Spagetti oder Reisnudeln)
 - *1* Zucchini
 - *2* Karotten
@@ -22,7 +22,7 @@ Leckeres thailändisches Nudelgericht.
 - *2 - 3 EL* Erdnussöl
 - *1 TL* Chiliflocken
 
-**Erdnuss-Sauce**
+## Erdnuss-Sauce
 - *60 g* Erdnussbutter
 - *60 ml* Kokosmilch
 - *60 ml* Sojasauce
@@ -30,7 +30,7 @@ Leckeres thailändisches Nudelgericht.
 - etwas Limettensaft
 - etwas Wasser nach Bedarf
 
-**Zum Servieren (optional)**
+## Zum Servieren (optional)
 - *1/2 Tasse* geröstete Erdnüsse
 - frischer Koriander
 - Sesam
