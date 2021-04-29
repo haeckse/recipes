@@ -26,7 +26,7 @@ Simples, aber sehr leckeres Rezept für vegane Bagel.
 
 1. Hefe in kleine Schüssel bröseln, *100 ml* lauwarmes Wasser und Zucker hinzufügen und verrühren, bis sich die Hefe aufgelöst hat. 5 Minuten stehen lassen, bis Mischung anfängt, zu schäumen.
 
-2. Mehl und Salz in großer Schüssel vermischen. Mulde in der Mitte formen, Hefemischung und Öl hineingießen. Hefe mit Mehl bedecken, restliches Wasser hinzugeben, mit Holzlöffel verrühren. Dann mit Händen 10 Minuten kneten, bis sich glatter Teig bildet.
+2. Mehl und Salz in großer Schüssel vermischen. Mulde in der Mitte formen, Hefemischung und Öl hineingießen. Hefe mit Mehl bedecken, ein bisschen Wasser hinzugeben, mit Holzlöffel verrühren. Dann mit Händen 10 Minuten kneten, bis sich glatter Teig bildet. Das restliche Wasser nach Bedarf hinzugeben. Der Teig sollte am Ende nicht mehr an den Händen kleben bleiben.
 
 3. Teig in leicht geölt Schüssel legen, mit Geschirrtuch abdecken. Mindestens 45 Minuten an warmem Ort gehen lassen.
 Ich lasse den Teig gerne mindestens ein paar Stunden gehen, am besten über Nacht 10-18 Std. im Kühlschrank, dann wird der Teig schön glatt.
