@@ -23,7 +23,7 @@ A short description of the recipe.
 - Basilikum
 - *1 TL* Zucker
 
-Toppings nach Belieben
+## Toppings nach Belieben
 - Kirschtomaten
 - [veganer Parmesan](https://github.com/dasnessie/recipes/blob/master/parmesan.md) oder Hefeflocken
 

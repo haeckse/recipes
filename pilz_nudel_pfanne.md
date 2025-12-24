@@ -20,7 +20,7 @@ Schnell zubereitetes Gericht, sehr lecker.
 - *1 TL* Ahornsirup
 - Salz und Pfeffer
 
-optional:
+## optional:
 - *3-4 EL* Pinienkerne
 - *2-3 EL* [veganer Parmesan](https://github.com/dasnessie/recipes/blob/master/parmesan.md)
 - frische Kräuter
